@@ -69,7 +69,7 @@ My goal is to create portfolio-ready projects that reflect both my **design back
 ## 📫 Let’s Connect  
 **Email:** [jazzblackartist@gmail.com](mailto:jazzblackartist@gmail.com)  
 **GitHub:** https://github.com/jasmineblackdev  
-**UX Portfolio:** https://uxfol.io/p/JasmineBlack/03a4cce6  
+**UX Portfolio:** https://jasmineblack.vercel.app
 *(LinkedIn coming soon)*
 
 ---
