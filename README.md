@@ -31,6 +31,7 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 ### 🔹 **Personal Portfolio**  
 A modern developer portfolio showcasing my transition from UI/UX to software engineering.  
 **Live:** https://jasmineblackdev.github.io/jasmineblack_portfolio/
+**Repo** https://github.com/jasmineblackdev/jasmineblack_portfolio.git
 
 ---
 
