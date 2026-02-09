@@ -30,8 +30,7 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 
 ### 🔹 **Personal Portfolio**  
 A modern developer portfolio showcasing my transition from UI/UX to software engineering.  
-**Live:** jasmineblack.vercel.app
-
+**Live** https://jasmineblack.vercel.app
 **Repo** https://github.com/jasmineblackdev/jasmineblack_portfolio.git
 
 ---
