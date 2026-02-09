@@ -29,8 +29,8 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 ## 🚀 Featured Projects
 
 ### 🔹 **Personal Portfolio**  
-A modern developer portfolio showcasing my transition from UI/UX to software engineering.  
-**Live** https://jasmineblack.vercel.app
+UX/UI design and web development portfolio with real-world product and redesign projects.
+**Live** https://jasmineblack.vercel.app 
 **Repo** https://github.com/jasmineblackdev/jasmineblack_portfolio.git
 
 ---
