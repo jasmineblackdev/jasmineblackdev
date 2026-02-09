@@ -30,7 +30,7 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 
 ### 🔹 **Personal Portfolio**  
 UX/UI design and web development portfolio with real-world product and redesign projects.<br>
-**Live** https://jasmineblack.vercel.app 
+**Live** https://jasmineblack.vercel.app <br>
 **Repo** https://github.com/jasmineblackdev/jasmineblack_portfolio.git
 
 ---
