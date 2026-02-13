@@ -28,28 +28,73 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 
 ## 🚀 Featured Projects
 
-### 🔹 **Personal Portfolio**  
-UX/UI design and web development portfolio with real-world product and redesign projects.<br>
-**Live** https://jasmineblack.vercel.app <br>
-**Repo** https://github.com/jasmineblackdev/jasmineblack_portfolio.git
+### 🔹 FormIQ
+**AI-powered exercise form analysis app**
+Real-time form feedback from uploaded workout videos
+• Workout tracking (sets, reps, progression)
+• Designed for beginners → advanced lifters
+• Focus on injury prevention and performance improvement
+**Tech:** Frontend (Vite / React), UX systems, product flows
+🔗 Repo: https://jasmineblackdev.github.io/FormIQ/
 
 ---
 
-### 🔹 **Tindog – Responsive Landing Page**  
-A playful, fully responsive landing page built with HTML, CSS, and Bootstrap.  
-**Live:** https://jasmineblackdev.github.io/Tindog/  
-**Repo:** https://github.com/jasmineblackdev/Tindog  
+### 🔹 Artifex
+**AI design ideation & decision-support software**
+• Generates design directions, color systems, and mood boards
+• Built for designers to reduce decision fatigue
+• Emphasizes structured creativity over infinite options
+**Tech:** Frontend, UX systems, component libraries
+🔗 Repo: https://jasmineblackdev.github.io/ARTIFEX/
 
 ---
 
-### 🔹 **Sentinel Home Health – Concept Site**  
-A UI/UX-driven home health concept site demonstrating practical design-to-code workflow.  
-**Repo:** https://github.com/jasmineblackdev/SentinelHomeHealth  
+### 🔹 MacroCore
+**Nutrition & macro-planning application**
+• Macro-based meal planning (cut, bulk, maintain)
+• Tracks weight, progress, and plan updates over time
+• Built with fitness & body composition science in mind
+**Tech:** Frontend logic, data modeling, product UX
+🔗 Repo: https://jasmineblackdev.github.io/smart-macro-coach/
 
 ---
 
-### 🔹 **Python Fitness Toolkit (In Progress)**  
-A set of small Python tools for macros, calorie targets, hydration, and workout logging as I learn core programming through WGU.
+### 🔹 BalanceIQ
+**Privacy-first financial planning assistant**
+• Budgeting, bill planning, and financial insights
+• Designed to function like a pocket financial advisor
+• No unnecessary personal data storage
+**Tech:** Product architecture, UX strategy, frontend logic
+🔗 Repo: https://jasmineblackdev.github.io/BalanceIQ/
+
+---
+
+### 🔹 Metabolic Reset Clinic — Website Redesign
+**Healthcare website UX & structure overhaul**
+• Analyzed and restructured a real clinic website
+• Improved information flow, clarity, and trust signals
+• Created a modern, conversion-focused redesign
+**Tech:** HTML, CSS, UX architecture
+🔗 Repo:  https://jasmineblackdev.github.io/metabolic-reset-clinic/
+
+---
+
+## 🧰 Tech Stack
+**Frontend**
+• HTML5, CSS3, JavaScript
+• React, Vite
+• Tailwind CSS
+
+**Design & Product**
+• Figma
+• Design systems & component libraries
+• UX research & flows
+
+**Product documentation**
+• Tools
+• Git & GitHub
+• GitHub Pages
+• VS Code
 
 ---
 
@@ -79,6 +124,12 @@ My goal is to create portfolio-ready projects that reflect both my **design back
 - I enjoy taking complex designs and turning them into clean code  
 - I’m passionate about mobile-first experiences  
 - My background gives me the rare mix of **designer + developer**  
+
+---
+
+## ⭐ Notes for Reviewers
+This GitHub is actively maintained and evolving.
+Projects are built with real users, real problems, and real scalability in mind — not just tutorials.
 
 ---
 
