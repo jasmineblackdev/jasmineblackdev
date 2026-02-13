@@ -79,25 +79,6 @@ Real-time form feedback from uploaded workout videos
 
 ---
 
-## 🧰 Tech Stack
-**Frontend**
-• HTML5, CSS3, JavaScript
-• React, Vite
-• Tailwind CSS
-
-**Design & Product**
-• Figma
-• Design systems & component libraries
-• UX research & flows
-
-**Product documentation**
-• Tools
-• Git & GitHub
-• GitHub Pages
-• VS Code
-
----
-
 ## 🎓 WGU – Software Engineering (Java Track)
 
 Currently building a strong foundation in:
