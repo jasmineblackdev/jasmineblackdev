@@ -29,7 +29,7 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 ## 🚀 Featured Projects
 
 ### 🔹 FormIQ
-**AI-powered exercise form analysis app**
+**AI-powered exercise form analysis app** <br>
 Real-time form feedback from uploaded workout videos <br>
 - Workout tracking (sets, reps, progression) <br>
 - Designed for beginners → advanced lifters ,br>
@@ -40,41 +40,41 @@ Real-time form feedback from uploaded workout videos <br>
 ---
 
 ### 🔹 Artifex
-**AI design ideation & decision-support software**
-• Generates design directions, color systems, and mood boards
-• Built for designers to reduce decision fatigue
-• Emphasizes structured creativity over infinite options
-**Tech:** Frontend, UX systems, component libraries
+**AI design ideation & decision-support software** <br>
+- Generates design directions, color systems, and mood boards <br>
+- Built for designers to reduce decision fatigue <br>
+- Emphasizes structured creativity over infinite options <br>
+**Tech:** Frontend, UX systems, component libraries ,br>
 🔗 Repo: https://jasmineblackdev.github.io/ARTIFEX/
 
 ---
 
 ### 🔹 MacroCore
-**Nutrition & macro-planning application**
-• Macro-based meal planning (cut, bulk, maintain)
-• Tracks weight, progress, and plan updates over time
-• Built with fitness & body composition science in mind
-**Tech:** Frontend logic, data modeling, product UX
+**Nutrition & macro-planning application** <br>
+- Macro-based meal planning (cut, bulk, maintain) <br>
+- Tracks weight, progress, and plan updates over time <br>
+- Built with fitness & body composition science in mind <br>
+**Tech:** Frontend logic, data modeling, product UX <br>
 🔗 Repo: https://jasmineblackdev.github.io/smart-macro-coach/
 
 ---
 
 ### 🔹 BalanceIQ
-**Privacy-first financial planning assistant**
-• Budgeting, bill planning, and financial insights
-• Designed to function like a pocket financial advisor
-• No unnecessary personal data storage
-**Tech:** Product architecture, UX strategy, frontend logic
+**Privacy-first financial planning assistant** <br>
+- Budgeting, bill planning, and financial insights <br>
+- Designed to function like a pocket financial advisor <br>
+- No unnecessary personal data storage <br>
+**Tech:** Product architecture, UX strategy, frontend logic <br>
 🔗 Repo: https://jasmineblackdev.github.io/BalanceIQ/
 
 ---
 
 ### 🔹 Metabolic Reset Clinic — Website Redesign
-**Healthcare website UX & structure overhaul**
-• Analyzed and restructured a real clinic website
-• Improved information flow, clarity, and trust signals
-• Created a modern, conversion-focused redesign
-**Tech:** HTML, CSS, UX architecture
+**Healthcare website UX & structure overhaul** <br>
+- Analyzed and restructured a real clinic website <br>
+- Improved information flow, clarity, and trust signals <br>
+- Created a modern, conversion-focused redesign <br>
+**Tech:** HTML, CSS, UX architecture <br>
 🔗 Repo:  https://jasmineblackdev.github.io/metabolic-reset-clinic/
 
 ---
