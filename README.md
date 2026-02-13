@@ -30,7 +30,7 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 
 ### 🔹 FormIQ
 **AI-powered exercise form analysis app**
-Real-time form feedback from uploaded workout videos
+Real-time form feedback from uploaded workout videos <br>
 • Workout tracking (sets, reps, progression)
 • Designed for beginners → advanced lifters
 • Focus on injury prevention and performance improvement
