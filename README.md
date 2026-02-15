@@ -44,7 +44,7 @@ Real-time form feedback from uploaded workout videos <br>
 - Generates design directions, color systems, and mood boards <br>
 - Built for designers to reduce decision fatigue <br>
 - Emphasizes structured creativity over infinite options <br>
-**Tech:** Frontend, UX systems, component libraries ,br>
+**Tech:** Frontend, UX systems, component libraries <br>
 🔗 Repo: https://jasmineblackdev.github.io/ARTIFEX/
 
 ---
@@ -55,7 +55,7 @@ Real-time form feedback from uploaded workout videos <br>
 - Tracks weight, progress, and plan updates over time <br>
 - Built with fitness & body composition science in mind <br>
 **Tech:** Frontend logic, data modeling, product UX <br>
-🔗 Repo: https://jasmineblackdev.github.io/smart-macro-coach/
+🔗 Repo:  https://jasmineblackdev.github.io/MacroCore-app/
 
 ---
 
