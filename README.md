@@ -32,7 +32,7 @@ I blend **strong visual design**, **clean interface development**, and **modern 
 **AI-powered exercise form analysis app** <br>
 Real-time form feedback from uploaded workout videos <br>
 - Workout tracking (sets, reps, progression) <br>
-- Designed for beginners → advanced lifters ,br>
+- Designed for beginners → advanced lifters <br>
 - Focus on injury prevention and performance improvement <br>
 **Tech:** Frontend (Vite / React), UX systems, product flows <br>
 🔗 Repo: https://jasmineblackdev.github.io/FormIQ/
