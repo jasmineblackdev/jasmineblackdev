@@ -55,7 +55,7 @@ Real-time form feedback from uploaded workout videos <br>
 - Tracks weight, progress, and plan updates over time <br>
 - Built with fitness & body composition science in mind <br>
 **Tech:** Frontend logic, data modeling, product UX <br>
-🔗 Repo:  https://jasmineblackdev.github.io/MacroCore-app/
+🔗 Repo:  https://macro-core-app.vercel.app
 
 ---
 
